@@ -1,0 +1,35 @@
+*{
+    border-width: 5px;
+}
+
+.solid {
+    border-style:solid;
+    border-color: #800080;
+    
+}
+.dotted {
+    border-style:dotted;
+    border-color: #ff0000;
+}
+.dashed {
+    border-style:dashed;
+    border-color: green;
+}
+.double {
+    border-style:double;
+    border-color: #ff69b4;
+}
+.gauche {
+    border-left-style: solid;
+    border-color: orange;
+}
+.arrondis {
+    border-style:solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: salmon;
+}
+.image {
+    border-style:hidden;
+    border-radius: 50%;
+}
